@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--META SEO-->
+<meta name="description" content="En la joyería encontrarás todo tipo de joyas">
+<meta name="keywords" content="mision,vision,nosotros,confiablidad,calidez">
+<title>Nosotros-La Joyeria</title>
+<!--BOOTSTRAP-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" 
+rel="stylesheet" 
+integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" 
+crossorigin="anonymous">
+<!--ESTILO CSS-->
+<link rel="stylesheet" href="../Css/estilos.css">
+<!--LETRAS-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alkatra&family=Cabin&family=Dosis&family=Josefin+Sans:ital@1&family=Lobster&family=Staatliches&display=swap" 
+rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Alkatra&family=Cabin&family=Dosis&family=Josefin+Sans:ital@1&family=Lobster&family=Staatliches&display=swap" 
+rel="stylesheet">
+</head>
+<body>
+<!--BARRA DE NAVEGACION-->
+    <header>
+        <div>
+            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="../index.html">
+                        <img src="../imgs/logo-removebg-preview.png" alt="logo" class="logo">
+                    </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="../index.html">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./nosotros.html">Nosotros</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="./productos.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Productos
+                        </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="./productos.html">Anillos</a></li>
+                        <li><a class="dropdown-item" href="./aros.html">Aros</a></li>
+                        <li><a class="dropdown-item" href="./cadenas.html">Cadenas</a></li>
+                        <li><a class="dropdown-item" href="./dijes.html">Dije</a></li>
+                        <li><a class="dropdown-item" href="./pulseras.html">Pulseras</a></li>
+                    </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./sucursales.html">Sucursales</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./contacto.html">Contacto</a>
+                    </li>
+                    </ul>
+                </div>
+                </div>
+            </nav>
+        </div>
+        </header> 
+                        
+<!--MAIN-->
+<main>
+    <h1>Pulseras</h1>
+    <!--ORDENAR POR CATEGORIA-->
+    <div class="form-orden">
+        <label for="orden" class="orden">Ordenar por</label>
+    <div class="form-selector">
+        <select class="opciones">
+            <option value="0"></option>
+            <option value="1">Nombre</option>
+            <option value="2">Menor Precio</option>
+            <option value="3">Mayor Precio</option>
+        </select>
+    </div>
+    
+    <!--VENTANA DEL CARRITO-->
+    <div class="ventanaContenedor"></div>
+    
+    <!--ICONO DE COMPRA-->
+    <div class="icono-tienda">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="comprar ">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 10.5V6a3.75 3.75 0 10-7.5 0v4.5m11.356-1.993l1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 01-1.12-1.243l1.264-12A1.125 1.125 0 015.513 7.5h12.974c.576 0 1.059.435 1.119 1.007zM8.625 10.5a.375.375 0 11-.75 0 .375.375 0 01.75 0zm7.5 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z" />
+        </svg> 
+    
+    <!--CONTADOR DE PRODUCTOS-->
+    <span class="contar-productos">0</span>
+        
+    </div>
+    </div>
+    
+    
+    
+    <!--PRODUCTOS DE LA TIENDA-->
+    <section class="contenedor">
+        <div class="contenedor-item">
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Arbol Multicolor 12 A 15Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Arbol Multicolor 12 A 15Cm</span>
+            <span class="precio-item">$1240</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Caracol 19,5Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Caracol 19,5Cm</span>
+            <span class="precio-item">$1230</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Cheval 19,5Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Cheval 19,5Cm.jpg"</span>
+            <span class="precio-item">$1280</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Combinada Mini Cubic 18Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Combinada Mini Cubic 18Cm</span>
+            <span class="precio-item">$1340</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Combinada Piedra Blanca Y Negra 18Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Combinada Piedra Blanca Y Negra 18Cm</span>
+            <span class="precio-item">$1290</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Combinada Piedra Blanca Y Negra 18Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Combinada Piedra Blanca Y Negra 18Cm</span>
+            <span class="precio-item">$1340</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Combinada Y Corazón Cubic Rosa 19,5Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Combinada Y Corazón Cubic Rosa 19,5Cm</span>
+            <span class="precio-item">$1280</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Doble Combinada y Corazón 17 A 20Cm.jpg"alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Doble Combinada y Corazón 17 A 20Cm</span>
+            <span class="precio-item">$1340</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Arbol Multicolor 12 A 15Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Arbol Multicolor 12 A 15Cm</span>
+            <span class="precio-item">$1240</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Combinada Corazon Multicolor 17 A 20Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Combinada Corazon Multicolor</span>
+            <span class="precio-item">$1250</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Combinada Mini Cubic 18Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Combinada Mini Cubic 18Cm.</span>
+            <span class="precio-item">$1450</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Cubic Multicolor 18 A 23,5Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Cubic Multicolor 18 A 23,5Cm.jpg"</span>
+            <span class="precio-item">$1560</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Doble Combinada y Corazón 17 A 20Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Doble Combinada y Corazón 17 A 20Cm</span>
+            <span class="precio-item">$1680</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Corazones 18Cm.jpg"  alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Corazones 18Cm</span>
+            <span class="precio-item">$1780</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Corazones 18Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Corazones 18Cm</span>
+            <span class="precio-item">$1340</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Corazón Ojo Turco - 20cm.jpg"  alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Corazón Ojo Turco - 20cm.jpg" </span>
+            <span class="precio-item">$2300</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Corazón Micropavé - 18 a 20cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Corazón Micropavé - 18 a 20cm</span>
+            <span class="precio-item">$2200</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Destello 18 a 22cm.jpg"alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Destello 18 a 22cm</span>
+            <span class="precio-item">$2360</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Ojo Protector Celeste 20Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Ojo Protector Celeste 20Cm</span>
+            <span class="precio-item">$2354</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Ojo Protector Y Corazones Combinados 19Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Ojo Protector Y Corazones Combinados 19Cm"</span>
+            <span class="precio-item">$1560</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Ojo Protector Y Corazones Combinados 19Cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Ojo Protector Y Corazones Combinados 19Cm"</span>
+            <span class="precio-item">$1560</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Sol Cubic 18 a 22cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Sol Cubic 18 a 22cm</span>
+            <span class="precio-item">$1342</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Tiffany 1,8mm - 19cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Tiffany 1,8mm - 19cm.jpg</span>
+            <span class="precio-item">2340</span>
+        </div>
+
+        <div class="item">
+            <img src="../imgs/pulseras/Pulsera Tourbillon 1mm-18cm.jpg" alt=""class="img-productos">
+            <span class="titulo-item" >Pulsera Tourbillon 1mm-18cm</span>
+            <span class="precio-item">$1560</span>
+        </div>
+
+    </section>
+
+</main>
+
+<!--FOOTER-->
+<footer class="footer-Contenedor .col-sm-12"> 
+    <section>
+        <article>
+                <h3 class="titulo-footer">Medio de pago</h3>
+                <ul class="ul-footer ul-img">
+                    <li><img src="../imgs/visa-electron-straight-64px.png" alt="visa"class="img-footer"></li>
+                    <li><img src="../imgs/western-union-curved-64px.png" alt="westerunion"class="img-footer"></li>
+                    <li><img src="../imgs/maestro-straight-64px.png" alt="maestro"class="img-footer"></li>
+                    <li><img src="../imgs/paypal-straight-64px.png" alt="paypal"class="img-footer"></li>
+                </ul>
+        </article>
+    </section>
+    <section>
+        <article class="sucursales-footer">
+            <h3 class="titulo-footer">Sucursales</h3>
+            <ul class="ul-footer">
+            <li ><a href="https://goo.gl/maps/y9SWPzfFvjH6h7xp8" target="_blank" class="a-maps"> Barrio del Cerro</a></li>
+            <li><a href="https://goo.gl/maps/uNdA2L8rhtjQ2yPf8" target="_blank"class="a-maps"> Barrio Jardin</a></li>
+            <li ><a href="https://goo.gl/maps/ADGX9tjCTaGpe9VT9" target="_blank"class="a-maps">Alta Cordoba</a></li>
+            <li  > <a href="https://goo.gl/maps/QcbVJ9zZDboi5VsW6" target="_blank"class="a-maps">Centro</a></li>
+        </ul>
+        </article>
+    </section>
+    <section>
+        <article>
+            <h3 class="titulo-footer">Redes sociales</h3>
+            <ul class="ul-footer ul-img">
+                <li><img src="../imgs/whatsapp.png" alt="whatsapp" class="img-footer"></li>
+                <li><img src="../imgs/instagram.png" alt="instagram" class="img-footer"></li>
+                <li><img src="../imgs/gmail.png" alt="email"class="img-footer"></li>
+            </ul>
+        </article>
+    </section>
+    
+    </footer>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+    crossorigin="anonymous"></script>
+
+  
+    <script src="../js/productos.js"></script>
+    <script src="../js/carrito.js"></script>
+    </body>
+    </html>
