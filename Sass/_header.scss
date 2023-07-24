@@ -1,0 +1,61 @@
+@use './mixins';
+@use './variables';
+
+.logo{
+@include mixins.tamanios(14rem,6rem)
+}
+.container-fluid{
+    @include mixins.flex(flex,flex-start,column,center);
+    background-color: variables.$color-footer-nav;
+    font-family: variables.$font-family;
+    
+}
+.navbar{
+    margin: 0;
+    padding: 0;
+
+}
+.nav-item{
+    padding-left: 6rem;
+}
+.nav-item{
+    .nav-link{
+        font-size: 20px;
+
+    }
+}
+.dropdown-menu{
+    text-align: center;
+    background-color: variables.$color-footer-nav;
+    font-size: 20px;
+
+}
+.dropdown-item{
+
+    padding: 10px;
+}
+
+@media screen and (max-width:480px){
+
+.container-fluid{
+    padding: 20px;
+}
+
+.nav-item{ 
+    padding: 0;
+}
+
+
+}
+@media screen and (max-width:480px){
+
+
+.container-fluid{
+
+    @include mixins.flex(flex, space-between, row, baseline)
+}
+
+.logo{
+    @include mixins.tamanios(10rem,5rem)
+    }
+}

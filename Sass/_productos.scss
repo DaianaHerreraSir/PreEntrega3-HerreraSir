@@ -1,0 +1,264 @@
+@use './mixins';
+@use './variables';
+
+
+
+/*DESKTOP*/
+.form-orden{
+    @include mixins.flex(flex,space-between,row,center);
+    margin-left:30px;
+   margin-right: 20px;
+    margin-top: 30px;
+}
+.orden{
+    width: 100px;
+    font-family: variables.$letra-font;
+    margin-top: 8px;
+}
+.form-selector{
+    width: 100px;
+}
+.icono-tienda{
+    width: 30px;
+    
+}
+/* Estilos para el icono y el contador */
+.icono-tienda {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .comprar {
+    /* Estilos para el icono (puedes ajustarlos según tus necesidades) */
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+  }
+  
+  
+.contar-productos{
+   
+    top: 55%;
+    right: 0;
+    background-color: #000;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    @include mixins.flex(flex,center,center,center);
+    border-radius: 50%;
+    text-align: center;
+  display: none;
+}
+.contenedor-carrito-productos{
+    position: absolute;
+    top: 50px;
+    right: 0;
+    background-color: #fff;
+    width: 400px;
+    z-index: 1;
+}
+.icono-eliminar{
+    width: 25px;
+    height: 25px;
+}
+.carro-producto{
+    display: flex;
+    padding: 30px;
+}
+.info-carro-producto{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.opciones{
+    width: 150px;
+    height: 35px;
+}
+
+    .contenedor{
+        max-width: 1200px;
+        padding: 10px;
+        margin: auto;
+        justify-content: space-between;
+        contain: paint;
+}
+
+    .contenedor-item{
+        margin-top: 30px;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(7, 1fr);
+        grid-gap: 30px;
+        grid-row-gap: 30px;
+        width: 100%;
+        transition: .3s;
+        
+        
+    }
+    .item{
+        max-width: 200px;
+        padding: 10px;
+        margin: auto;
+        transition: .3s;
+        &:hover{
+            box-shadow:  0 0 10px gray;
+        }
+    }
+
+    .img-productos{
+        width: 100%;
+    }
+
+    .titulo-item{
+        display: block;
+        font-size: 15px;
+        font-family: variables.$letra-font;
+        text-align: center;
+        height: 50px;
+        margin-bottom: 20px;
+
+    }
+    .precio-item{
+        display: block;
+        font-size: 15px;
+        margin-bottom: 10px;
+        text-align: center;
+        height: 40px;
+        font-weight: bold;
+
+    }
+    .boton-item{
+        display: block;
+        margin-left: 20px;
+        border:none;
+        background: black;
+        padding: 5px 14px ;
+        color: aliceblue;
+        font-size: 14px;
+        font-family: variables.$letra-font;
+        border-radius: 5px;
+    }
+
+ .botones{  display: block;
+    margin-left: 20px;
+    border:none;
+    background: black;
+    padding: 5px 14px ;
+    color: aliceblue;
+    font-size: 14px;
+    font-family: variables.$letra-font;
+    border-radius: 5px;
+}
+
+.ventanaContenedor{
+    width: 60%;
+    margin: 0 10%;
+    max-height: 88vh;
+    color:black;
+    font-family: variables.$font-family;
+    background-color: variables.$color-footer-nav;
+    @include mixins.flex(flex,flex-start,column,center);
+    position: fixed;
+    overflow:auto;
+    z-index: 9;
+    top: 12vh;
+    scrollbar-color: none;
+}
+
+.ventana-contenedor-{
+    height: 400px;
+}
+.ventana-contenedor-{
+    h2{
+        padding: 150px
+    }
+}
+.ventanaContenedor{
+    .ventana-contenedor{
+        @include mixins.flex(flex,space-around,center,center);
+        width: 70%;
+        margin: 10px;
+    }
+    .ventana-contenedor{
+        h3{
+            font-size: 20px;
+            padding: 10px;
+        }
+    }
+    .ventana-contenedor{
+        p{
+            font-size: 20px;
+            padding: 10px;
+        }
+    }
+}
+.ventana-carrito{
+    display: flex;
+    flex-direction: column-reverse;
+  
+    color: black;
+    width: 100%;
+
+}
+.ventana-titulo{
+    font-family: variables.$letra-font;
+    font-size: 40px;
+    text-align: center;
+    padding: 0;
+ 
+}
+.ventana-boton{
+    
+    cursor: pointer;
+    font-size: 30px ;
+    margin: 10px;
+}
+
+.ventanaContenedor{
+    div{
+        img{
+            height: 80px;
+            width: 80px;
+            margin: 20px;
+            padding: 10px;
+        }
+    }
+
+}
+.total-productos{
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.restar{
+   
+    font-size: 20px;
+    font-family: monospace;
+     border: 1px solid #ffcad4;
+     border-radius: 50px;
+}
+.sumar{
+    cursor: pointer;
+    font-size: 20px;
+    font-family: monospace;
+    border: 1px solid #ffcad4;
+    border-radius: 50px;
+}
+.eliminar{
+    border: 1px solid #ffcad4;
+    border-radius: 50px;
+    padding-left: 10px;
+}
+/*MOBILE*/
+@media screen and (max-width:480px){
+.contenedor-item{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat( 1fr);
+}
+}

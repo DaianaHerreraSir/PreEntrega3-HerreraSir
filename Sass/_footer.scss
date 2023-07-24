@@ -1,0 +1,64 @@
+@use './mixins';
+@use './variables';
+
+.footer-Contenedor{
+background-color:variables.$color-footer-nav;
+@include mixins.flex(flex,space-around,row,flex-start);
+
+}
+.titulo-footer{
+    font-family: variables.$font-family;
+    text-align: center;
+    padding-top: 16px;
+    font-size: 20px;
+}
+.a-maps{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+
+}
+
+.ul-footer{
+    list-style: none;
+    padding-top: 6px;
+    padding-right: 20px;
+    font-size: 13px;
+   }
+.ul-img{
+    @include mixins.flex(flex,space-between,row,flex-end);
+    padding:2rem;
+}
+
+.sucursales-footer{
+    @include mixins.flex(flex,center,column,center);
+    margin-right: 65px;
+}
+
+.img-footer{
+ @include mixins.tamanios(45px, 30px);
+ padding-right: 1rem;}
+
+
+ 
+/*MOBILE*/
+@media screen and (max-width:480px){
+
+.footer-Contenedor{
+    @include mixins.flex(flex,center,column,center);
+    display:flex;
+    flex-direction: column;
+}
+   
+.sucursales-footer{
+    display: none;
+}
+.titulo-footer{
+    @include mixins.flex(flex,center,row,flex-end);
+}
+
+.ul-footer{
+    @include mixins.flex(flex,center,row,flex-end);
+  
+}
+}

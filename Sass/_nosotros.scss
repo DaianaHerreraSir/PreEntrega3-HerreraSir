@@ -1,0 +1,49 @@
+@use './mixins';
+@use './variables';
+
+.img-nosotros{
+   width: 100%;
+   height: 300px;
+   object-fit: cover
+}
+.img-quienesomos{
+    @include mixins.tamanios(461px,350px);
+    margin:2rem;
+}
+.somos{
+    @include mixins.flex(flex,center,row,center);
+
+}
+
+.mision{
+    @include mixins.flex(flex,space-around,row-reverse,center);
+    
+}
+.texto{
+    font-style: italic;
+    text-align: center;
+    margin: 1rem;
+    padding: 2rem;
+    width: 400px;
+    
+}
+
+     
+/*MOBILE*/
+@media screen and (max-width:480px){
+
+.img-quienesomos{
+    @include mixins.tamanios(250px,200px);
+    margin:2rem;}
+
+    .somos{
+        @include mixins.flex(flex,center,column,center);}
+    
+        .mision{
+            @include mixins.flex(flex,space-around,column,center);
+        border-top: 2px solid;}
+.texto{
+    width: 300px;
+}
+            
+}

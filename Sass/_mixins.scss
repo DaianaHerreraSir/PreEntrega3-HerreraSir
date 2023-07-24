@@ -1,0 +1,11 @@
+@mixin tamanios ($width, $height){
+    width: $width;
+    height: $height;
+}
+@mixin flex ($d, $jc, $fd,$ai){
+    display:$d;
+    justify-content: $jc;
+    flex-direction: $fd;
+    align-items: $ai;
+}
+
