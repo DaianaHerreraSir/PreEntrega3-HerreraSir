@@ -32,13 +32,14 @@ carrito.forEach(producto => {
     const contenidoDelCarrito = document.createElement("div");
     contenidoDelCarrito .className = "ventana-contenedor";
     contenidoDelCarrito .innerHTML = `
-    <img src="${producto.imagen}" alt="${producto.nombre}">
-    <h3>${producto.nombre}</h3>
-    <p>$ ${producto.precio}</p>
+    <img class="imagen" src="${producto.imagen}" alt="${producto.nombre}">
+    <h3 class="nombre">${producto.nombre}</h3>
+    <p class= "precio">$ ${producto.precio}</p>
     <button class="restar"> - </button>
-    <p>cantidad: ${producto.cantidad}</p>
+    <p class= "cantidad"> ${producto.cantidad}</p>
     <button class="sumar"> + </button>
-    <p>total: $ ${producto.cantidad * producto.precio}</p>
+    <button class= "eliminar"> Eliminar </button>
+    <p class= "total"> total: $ ${producto.cantidad * producto.precio}</p>
     
     `;
 
@@ -66,19 +67,16 @@ sumar.addEventListener("click", () => {
 });
 
 /*BOTON PARA ELIMINAR PRODUCTOS*/ 
-console.log(carrito.length);
 
-let eliminar= document.createElement("button");
-eliminar.innerText= "X";
-eliminar.className = "eliminar";
+console.log(carrito);
+ let eliminar = contenidoDelCarrito.querySelector(".eliminar");
 
+ eliminar.addEventListener("click", ()=>{
+    eliminarPorductos(producto.id)
 
-contenidoDelCarrito.append(eliminar);
-
-eliminar.addEventListener("click", eliminarPorductos)
-
-
+ });
 });
+
 
 
 
@@ -98,11 +96,27 @@ CarritoTienda.addEventListener("click",  detalleDelCarrito);
 
 
 //FUNCION PARA ELIMINAR LOS PRODUCTOS DEL CARRITO
-const eliminarPorductos= () =>{
-    const encontrarId = carrito.find((elemento)=> elemento.id);
-    
-    carrito= carrito.filter ((carritoId)=> {
-        return carritoId !== encontrarId
+const eliminarPorductos = (id) => {
+    const encontrarId = carrito.find((elemento) => elemento.id === id);
+// SWEETALERT
+    Swal.fire({
+        title: "¿Estás seguro?",
+        text: "Se eliminará el producto del carrito",
+        icon: "warning",
+        showCancelButton: true,
+        confirmButtonColor: "#3085d6",
+        cancelButtonColor: "#d33",
+        confirmButtonText: "Aceptar",
+        cancelButtonText: "Cancelar",
+    }).then((result) => {
+      // Si el usuario hace clic en "Aceptar", eliminar el producto
+    if (result.isConfirmed) {
+        carrito = carrito.filter((carritoId) => carritoId !== encontrarId);
+        actualizarCarrito();
+    } else {
+        // Si el usuario hace clic en "Cancelar", no hacer nada
+        // o puedes mostrar un mensaje o realizar otra acción
+    }
     });
 
 
