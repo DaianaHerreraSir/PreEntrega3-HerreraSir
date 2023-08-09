@@ -109,13 +109,12 @@ const eliminarPorductos = (id) => {
         confirmButtonText: "Aceptar",
         cancelButtonText: "Cancelar",
     }).then((result) => {
-      // Si el usuario hace clic en "Aceptar", eliminar el producto
+     
     if (result.isConfirmed) {
         carrito = carrito.filter((carritoId) => carritoId !== encontrarId);
         actualizarCarrito();
     } else {
-        // Si el usuario hace clic en "Cancelar", no hacer nada
-        // o puedes mostrar un mensaje o realizar otra acción
+
     }
     });
 
