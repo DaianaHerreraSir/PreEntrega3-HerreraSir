@@ -22,7 +22,7 @@ contadorDeProductos();
 GuardadoEnlocal(); 
 }
 
-//FECH
+//FETCH
 
 const getProductos =async () => {
 try{
