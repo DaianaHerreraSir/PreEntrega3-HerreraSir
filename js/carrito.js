@@ -69,7 +69,6 @@ sumar.addEventListener("click", () => {
 
 /*BOTON PARA ELIMINAR PRODUCTOS*/ 
 
-console.log(carrito);
  let eliminar = contenidoDelCarrito.querySelector(".eliminar");
 
  eliminar.addEventListener("click", ()=>{
