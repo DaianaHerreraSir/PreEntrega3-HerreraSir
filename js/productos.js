@@ -8,23 +8,22 @@ let carrito = JSON.parse(localStorage.getItem("carrito")) || [];
  // FETCH
 
 
-const getProductos = async () => {
-  try {
-    const respuesta = await fetch("/data/productos.json");
-    if (!respuesta.ok) {
-      throw new Error("No se pudo obtener la data del servidor");
-    }
-    return await respuesta.json();
-  } catch (error) {
-    console.error("Error al obtener los productos:", error);
-    return []; 
-  }
-};
+// const getProductos = async () => {
+//     const respuesta = await fetch("/data/productos.json");
+//     if (!respuesta.ok) {
+//       throw new Error("No se pudo obtener la data del servidor");
+//     }
+//     return await respuesta.json();
+//   } catch (error) {
+//     console.error("Error al obtener los productos:", error);
+//     return []; 
+//   }
+// };
 
 
 
 
-getProductos().then((productos) => {
+// getProductos().then((productos) => {
 //FUNCION PARA AGREGAR AL CARRITO UN PRODUCTO Y SUMARLO A LAS CANTIDADES SI ES EL MISMO PRODUCTO
 const agregarAlCarrito=(producto)=>{
   const repetirProducto= carrito.some((productoRepetido)=>productoRepetido.id === producto.id)
@@ -95,7 +94,7 @@ const precioNumerico = parseFloat(precio.replace("$", ""));
   }
 
 })
-});
+// });
 
 
 //LOCALSTORAGE
