@@ -1,864 +1,861 @@
 [
-    {
-      "nombre": "Anillo Circulo Micropave",
-      "precio": 1240,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Circulo%20Micropave.jpg",
-      "cantidad": 1,
-      "id": 1
-    },
-    {
-      "nombre": "Anillo Circulos Fucsia",
-      "precio": 1340,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Circulos%20Fucsia.jpg",
-      "cantidad": 1,
-      "id": 2
-    },
-    {
-      "nombre": "Anillo Circulos Rosa",
-      "precio": 1250,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Circulos%20Rosa.jpg",
-      "cantidad": 1,
-      "id": 3
-    },
-    {
-      "nombre": "Anillo Circulos Verde",
-      "precio": 1490,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Circulos%20Verde.jpg",
-      "cantidad": 1,
-      "id": 4
-    },
-    {
-      "nombre": "Anillo Corazón Calado",
-      "precio": 1600,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Coraz%C3%B3n%20Calado.jpg",
-      "cantidad": 1,
-      "id": 5
-    },
-    {
-      "nombre": "Anillo Corazón Micropave",
-      "precio": 1800,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Coraz%C3%B3n%20Micropave.jpg",
-      "cantidad": 1,
-      "id": 6
-    },
-    {
-      "nombre": "Anillo Cubic Centro",
-      "precio": 1670,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Cubic%20Centro.jpg",
-      "cantidad": 1,
-      "id": 7
-    },
-    {
-      "nombre": "Anillo Cubic Centro.jpg\"",
-      "precio": 1690,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Cubic%20Centro.jpg",
-      "cantidad": 1,
-      "id": 8
-    },
-    {
-      "nombre": "Anillo Cubic Oval Verde",
-      "precio": 1780,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Cubic%20Oval%20Verde.jpg",
-      "cantidad": 1,
-      "id": 9
-    },
-    {
-      "nombre": "Anillo Doble Cubic Cristal",
-      "precio": 1760,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Doble%20Cubic%20Cristal.jpg",
-      "cantidad": 1,
-      "id": 10
-    },
-    {
-      "nombre": "Anillo Dos Corazones",
-      "precio": 2000,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Dos%20Corazones.jpg",
-      "cantidad": 1,
-      "id": 11
-    },
-    {
-      "nombre": "Anillo Falange Infinito Micropave",
-      "precio": 2340,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Falange%20Infinito%20Micropave.jpg",
-      "cantidad": 1,
-      "id": 12
-    },
-    {
-      "nombre": "Anillo Flor Cubic.jpg",
-      "precio": 1380,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Flor%20Cubic.jpg",
-      "cantidad": 1,
-      "id": 13
-    },
-    {
-      "nombre": "Anillo Gatito",
-      "precio": 2200,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Gatito.jpg",
-      "cantidad": 1,
-      "id": 14
-    },
-    {
-      "nombre": "Anillo Hoja Micropave Blanco",
-      "precio": 2600,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Hoja%20Micropave%20Blanco.jpg",
-      "cantidad": 1,
-      "id": 15
-    },
-    {
-      "nombre": "Anillo Circulo Micropave",
-      "precio": 3200,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Infinito%20Micropave.jpg",
-      "cantidad": 1,
-      "id": 16
-    },
-    {
-      "nombre": "Anillo Luna Micropave",
-      "precio": 2340,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Luna%20Micropave.jpg",
-      "cantidad": 1,
-      "id": 17
-    },
-    {
-      "nombre": "Anillo Mariposa",
-      "precio": 2600,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Mariposa.jpg",
-      "cantidad": 1,
-      "id": 18
-    },
-    {
-      "nombre": "Anillo Micropave Combinado",
-      "precio": 2700,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Micropave%20Combinado.jpg",
-      "cantidad": 1,
-      "id": 19
-    },
-    {
-      "nombre": "Anillo Micropave Multicolor",
-      "precio": 2900,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Micropave%20Multicolor.jpg",
-      "cantidad": 1,
-      "id": 20
-    },
-    {
-      "nombre": "Anillo Micropave Verde",
-      "precio": 3000,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Micropave%20Verde.jpg",
-      "cantidad": 1,
-      "id": 21
-    },
-    {
-      "nombre": "Anillo Mini Circulos Cristal Multicolor",
-      "precio": 4300,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Mini%20Circulos%20Cristal%20Multicolor.jpg",
-      "cantidad": 1,
-      "id": 22
-    },
-    {
-      "nombre": "Anillo Mini Cubic",
-      "precio": 2200,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Mini%20Cubic.jpg",
-      "cantidad": 1,
-      "id": 23
-    },
-    {
-      "nombre": "Anillo Ojo Cristal",
-      "precio": 2500,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Ojo%20Cristal.jpg",
-      "cantidad": 1,
-      "id": 24
-    },
-    {
-      "nombre": "Anillo Ondeado Dos Cubic",
-      "precio": 2780,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Ondeado%20Dos%20Cubic.jpg",
-      "cantidad": 1,
-      "id": 25
-    },
-    {
-      "nombre": "Anillo Ondeado Dos Cubic",
-      "precio": 3200,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Ondeado%20Dos%20Cubic.jpg",
-      "cantidad": 1,
-      "id": 26
-    },
-    {
-      "nombre": "Anillo Picos Cubic",
-      "precio": 3230,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Picos%20Cubic.jpg",
-      "cantidad": 1,
-      "id": 27
-    },
-    {
-      "nombre": "Anillo Flor Cubic Cristal",
-      "precio": 3540,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Flor%20Cubic%20Cristal.jpg",
-      "cantidad": 1,
-      "id": 28
-    },
-    {
-      "nombre": "Anillo Dona.jpg\"",
-      "precio": 3200,
-      "imagen": "http://127.0.0.1:5502/imgs/anillos/Anillo%20Dona.jpg",
-      "cantidad": 1,
-      "id": 29
-    },
-         {
-          "nombre": "Aros combinados micropave 1,2cm",
-          "precio": 1200,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Combinados%20Cubano%20It%20Micropave%20Negro%203Mm%201,2Cm.jpg",
-          "cantidad": 1,
-          "id": 30
-        },
-        {
-          "nombre": "Aros corazon de meloconton 10Mm",
-          "precio": 1600,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Coraz%C3%B3n%2010Mm.jpg",
-          "cantidad": 1,
-          "id": 31
-        },
-        {
-          "nombre": "Aros corazon Mircropave 1,3cm",
-          "precio": 1700,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Coraz%C3%B3n%20Micropave%201,3Cm.jpg",
-          "cantidad": 1,
-          "id": 32
-        },
-        {
-          "nombre": "Aros Cubano It Cubic Multicolor 3Mm 1Cm.",
-          "precio": 1300,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Cubano%20It%20Cubic%20Multicolor%203Mm%201Cm.jpg",
-          "cantidad": 1,
-          "id": 33
-        },
-        {
-          "nombre": "Aros Cubano It Micropave Blanco 3Mm 1,2Cm.",
-          "precio": 300,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Cubano%20It%20Micropave%20Blanco%203Mm%201,2Cm.jpg",
-          "cantidad": 1,
-          "id": 34
-        },
-        {
-          "nombre": "Aros Cubano It Micropave Blanco 3Mm 1Cm.",
-          "precio": 400,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Cubano%20It%20Micropave%20Blanco%203Mm%201Cm.jpg",
-          "cantidad": 1,
-          "id": 35
-        },
-        {
-          "nombre": "Aros Cubano It Micropave Combinado 2Mm 1,3Cm",
-          "precio": 600,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Cubano%20It%20Micropave%20Combinado%202Mm%201,3Cm.jpg",
-          "cantidad": 1,
-          "id": 36
-        },
-        {
-          "nombre": "Aros Cubano It Micropave Combinado 2Mm 1Cm",
-          "precio": 4500,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Cubano%20It%20Micropave%20Combinado%202Mm%201Cm.jpg",
-          "cantidad": 1,
-          "id": 37
-        },
-        {
-          "nombre": "Aros Cubano It Micropave Multicolor 1,3Cm.",
-          "precio": 300,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Cubano%20It%20Micropave%20Multicolor%201,3Cm.jpg",
-          "cantidad": 1,
-          "id": 38
-        },
-        {
-          "nombre": "Aros Cubano It Micropave Multicolor 2Mm 1Cm.",
-          "precio": 150,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Cubano%20It%20Micropave%20Multicolor%202Mm%201Cm.jpg",
-          "cantidad": 1,
-          "id": 39
-        },
-        {
-          "nombre": "Aros Dos Corazones Cubic Rosa 9Mm.jpg.",
-          "precio": 190,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Dos%20Corazones%20Cubic%20Rosa%209Mm.jpg",
-          "cantidad": 1,
-          "id": 40
-        },
-        {
-          "nombre": "Aros Estrella Micropave Blanco 6Mm..",
-          "precio": 1890,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Estrella%20Micropave%20Blanco%206Mm.jpg",
-          "cantidad": 1,
-          "id": 41
-        },
-        {
-          "nombre": "Aros Flor Calada Combinada Cubic 8Mm.",
-          "precio": 1450,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Flor%20Calada%20Combinada%20Cubic%208Mm.jpg",
-          "cantidad": 1,
-          "id": 42
-        },
-        {
-          "nombre": "Aros Gota Combinado Micropave 10Mm",
-          "precio": 1500,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Gota%20Combinado%20Micropave%2010Mm.jpg",
-          "cantidad": 1,
-          "id": 43
-        },
-        {
-          "nombre": "Aros Infinitos Micropave 2,4Cm.",
-          "precio": 1500,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Infinitos%20Micropave%202,4Cm.jpg",
-          "cantidad": 1,
-          "id": 44
-        },
-        {
-          "nombre": "Aros Micropave Negro 1Cm.",
-          "precio": 1250,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Micropave%20Negro%201Cm.jpg",
-          "cantidad": 1,
-          "id": 45
-        },
-        {
-          "nombre": "Aros Mini Triángulos Multicolor 4Mm.",
-          "precio": 1450,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Mini%20Tri%C3%A1ngulos%20Multicolor%204Mm.jpg",
-          "cantidad": 1,
-          "id": 46
-        },
-        {
-          "nombre": "Aros Pluma Cubic Combinado 1Cm.",
-          "precio": 1258,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Pluma%20Cubic%20Combinado%201Cm.jpg",
-          "cantidad": 1,
-          "id": 47
-        },
-        {
-          "nombre": "Aros Rectangular Micropave 7Mm.",
-          "precio": 1450,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Rectangular%20Micropave%207Mm.jpg",
-          "cantidad": 1,
-          "id": 48
-        },
-        {
-          "nombre": "Aros Rombo Micropave y Cadena 5Mm.",
-          "precio": 1150,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Rombo%20Micropave%20y%20Cadena%205Mm.jpg",
-          "cantidad": 1,
-          "id":49
-        },
-        {
-          "nombre": "Aros Semi Argollita Multicolor 10Mm.",
-          "precio": 1250,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Semi%20Argollita%20Multicolor%2010Mm.jpg",
-          "cantidad": 1,
-          "id": 50
-        },
-        {
-          "nombre": "Aros Sol Cubic 1,2Cm.",
-          "precio": 1750,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Sol%20Cubic%201,2Cm.jpg",
-          "cantidad": 1,
-          "id": 51
-        },
-        {
-          "nombre": "Aros Susano Cubic Cristal 1,1Cm.",
-          "precio": 1250,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Susano%20Cubic%20Cristal%201,1Cm.jpg",
-          "cantidad": 1,
-          "id": 52
-        },
-        {
-          "nombre": "Aros Susanos Mini Multicolor 7Mm..",
-          "precio": 1253,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Susanos%20Mini%20Multicolor%207Mm.jpg",
-          "cantidad": 1,
-          "id": 53
-        },
-        {
-          "nombre": "Aros Susanos Mini Multicolor 7Mm.",
-          "precio": 1950,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Susanos%20Mini%20Multicolor%207Mm.jpg",
-          "cantidad": 1,
-          "id": 54
-        },
-        {
-          "nombre": "Aros Cubic Cristal Multicolor 9mm.",
-          "precio": 1780,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Cubic%20Cristal%20Multicolor%209mm.jpg",
-          "cantidad": 1,
-          "id": 55
-        },
-        {
-          "nombre": "Aros Corazones con Cierre Brisura 10mm.jpg",
-          "precio": 1934,
-          "imagen": "http://127.0.0.1:5502/imgs/aros/Aros%20Corazones%20con%20Cierre%20Brisura%2010mm.jpg",
-          "cantidad": 1,
-          "id": 56
-        },
-        {
-            "nombre": "Cadena Bolitas 1Mm 45cM",
-            "precio": 1240,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Bolitas%201Mm%2045cM.jpg",
-            "cantidad": 1,
-            "id": 57
-          },
-          {
-            "nombre": "Cadena Bolitas 2mm-45cm.",
-            "precio": 1100,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Bolitas%202mm-45cm.jpg",
-            "cantidad": 1,
-            "id": 58
-          },
-          {
-            "nombre": "Cadena Cheval Combinada 40Cm",
-            "precio": 1210,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Cheval%20Combinada%2040Cm.jpg",
-            "cantidad": 1,
-            "id": 59
-          },
-          {
-            "nombre": "Cadena Cheval Combinada 45Cm",
-            "precio": 1500,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Cheval%20Combinada%2045Cm.jpg",
-            "cantidad": 1,
-            "id": 60
-          },
-          {
-            "nombre": "CCadena Singapur 1,8mm - 40cm",
-            "precio": 1420,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Singapur%201,8mm%20-%2040cm.jpg",
-            "cantidad": 1,
-            "id": 61
-          },
-          {
-            "nombre": "Cadena Singapur 1,8mm - 45cm.jpg\"",
-            "precio": 1470,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Singapur%201,8mm%20-%2045cm.jpg",
-            "cantidad": 1,
-            "id": 62
-          },
-          {
-            "nombre": "Cadena Singapur 1,8mm - 45cm",
-            "precio": 1560,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Singapur%201,8mm%20-%2045cm.jpg",
-            "cantidad": 1,
-            "id": 63
-          },
-          {
-            "nombre": "Cadena Singapur 1,8mm - 50cm",
-            "precio": 1430,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Singapur%201,8mm%20-%2050cm.jpg",
-            "cantidad": 1,
-            "id": 64
-          },
-          {
-            "nombre": "Cadena Singapur 2Mm 40Cm",
-            "precio": 1450,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Singapur%202Mm%2040Cm.jpg",
-            "cantidad": 1,
-            "id": 65
-          },
-          {
-            "nombre": "Cadena Tiffany 1,8mm - 40cm",
-            "precio": 1760,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Tiffany%201,8mm%20-%2040cm.jpg",
-            "cantidad": 1,
-            "id": 66
-          },
-          {
-            "nombre": "CCadena Tiffany 1,8mm - 45cm",
-            "precio": 2240,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Tiffany%201,8mm%20-%2045cm.jpg",
-            "cantidad": 1,
-            "id": 67
-          },
-          {
-            "nombre": "Cadena Veneciana 1mm - 40cm.\"",
-            "precio": 1870,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Cadena%20Veneciana%201mm%20-%2040cm.jpg",
-            "cantidad": 1,
-            "id": 68
-          },
-          {
-            "nombre": "Conjunto Choker Multi Dijes Combinados 40cm",
-            "precio": 1860,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Conjunto%20Choker%20Multi%20Dijes%20Combinados%2040cm.jpg",
-            "cantidad": 1,
-            "id": 69
-          },
-          {
-            "nombre": "Conjunto Corazón Calado Micropave 40 A 45Cm",
-            "precio": 1990,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Conjunto%20Coraz%C3%B3n%20Calado%20Micropave%2040%20A%2045Cm.jpg",
-            "cantidad": 1,
-            "id": 70
-          },
-          {
-            "nombre": "Conjunto Mini Cubic Cristal 45Cm",
-            "precio": 1880,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Conjunto%20Mini%20Cubic%20Cristal%2045Cm.jpg",
-            "cantidad": 1,
-            "id": 71
-          },
-          {
-            "nombre": "Conjunto Rayo Micropave 40 A 45Cm",
-            "precio": 2000,
-            "imagen": "http://127.0.0.1:5502/imgs/cadenas/Conjunto%20Rayo%20Micropave%2040%20A%2045Cm.jpg",
-            "cantidad": 1,
-            "id": 72
-          },
-          {
-            "nombre": "Ala Calada Micropave 2,2Cm",
-            "precio": 1200,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Ala%20Calada%20Micropave%202,2Cm.jpg",
-            "cantidad": 1,
-            "id": 73
-          },
-          {
-            "nombre": "/Dije Perro Micropave 1,5",
-            "precio": 1230,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes//Dije%20Perro%20Micropave%201,5Cm.jpg",
-            "cantidad": 1,
-            "id": 74
-          },
-          {
-            "nombre": "Dije Estrella Micropave 7Mm",
-            "precio": 1220,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Estrella%20Micropave%207Mm.jpg",
-            "cantidad": 1,
-            "id": 75
-          },
-          {
-            "nombre": "Dije Trébol 4 Hojas 1,8Cm",
-            "precio": 1230,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Tr%C3%A9bol%204%20Hojas%201,8Cm.jpg",
-            "cantidad": 1,
-            "id": 76
-          },
-          {
-            "nombre": "Dije Corazon Contorno Multicolor 11Mm",
-            "precio": 1250,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Corazon%20Contorno%20Multicolor%2011Mm.jpg",
-            "cantidad": 1,
-            "id": 77
-          },
-          {
-            "nombre": "Dije Gatito 2Cm",
-            "precio": 1290,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Gatito%202Cm.jpg",
-            "cantidad": 1,
-            "id": 78
-          },
-          {
-            "nombre": "Dije Cruz Con Infinito Micropave 2Cm.jpg",
-            "precio": 1280,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Cruz%20Con%20Infinito%20Micropave%202Cm.jpg",
-            "cantidad": 1,
-            "id": 79
-          },
-          {
-            "nombre": "Dije Corazon Contorno Multicolor 11Mm",
-            "precio": 1310,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Corazon%20Contorno%20Multicolor%2011Mm.jpg",
-            "cantidad": 1,
-            "id": 80
-          },
-          {
-            "nombre": "Dije Ala Calada Micropave 2,2Cm.jpg",
-            "precio": 1320,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Ala%20Calada%20Micropave%202,2Cm.jpg",
-            "cantidad": 1,
-            "id": 81
-          },
-          {
-            "nombre": "Dije Caballito de Mar 2,2Cm",
-            "precio": 1330,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Caballito%20de%20Mar%202,2Cm.jpg",
-            "cantidad": 1,
-            "id": 82
-          },
-          {
-            "nombre": "Dije Cubic Engarzado Violeta 6Mm",
-            "precio": 1340,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Cubic%20Engarzado%20Violeta%206Mm.jpg",
-            "cantidad": 1,
-            "id": 83
-          },
-          {
-            "nombre": "dije Susano Mini Negro 3Mm",
-            "precio": 1345,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/dije%20Susano%20Mini%20Negro%203Mm.jpg",
-            "cantidad": 1,
-            "id": 84
-          },
-          {
-            "nombre": "Dije Cubic Engarzado Verde 6Mm",
-            "precio": 1400,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Cubic%20Engarzado%20Verde%206Mm.jpg",
-            "cantidad": 1,
-            "id": 85
-          },
-          {
-            "nombre": "ADije Cubic Engarzado Azul 6Mm",
-            "precio": 1430,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Cubic%20Engarzado%20Azul%206Mm.jpg",
-            "cantidad": 1,
-            "id": 86
-          },
-          {
-            "nombre": "Dije Corazón 8Mm.jpg\"",
-            "precio": 1450,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Coraz%C3%B3n%208Mm.jpg",
-            "cantidad": 1,
-            "id": 87
-          },
-          {
-            "nombre": "dije Susano Mini Negro 3Mm",
-            "precio": 1240,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/dije%20Susano%20Mini%20Negro%203Mm.jpg",
-            "cantidad": 1,
-            "id": 88
-          },
-          {
-            "nombre": "Dije Mariposa Micropave Blanco 1,3Cm",
-            "precio": 1110,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Mariposa%20Micropave%20Blanco%201,3Cm.jpg",
-            "cantidad": 1,
-            "id": 89
-          },
-          {
-            "nombre": "Dije Susano Mini Rosa 3Mm",
-            "precio": 950,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Susano%20Mini%20Rosa%203Mm.jpg",
-            "cantidad": 1,
-            "id": 90
-          },
-          {
-            "nombre": "Dije Estrella 8Mm.jp",
-            "precio": 1650,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Estrella%20Micropave%208Mm.jpg",
-            "cantidad": 1,
-            "id": 91
-          },
-          {
-            "nombre": "Dije Libélula Micropave Multicolor 1,2Cm",
-            "precio": 1640,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Lib%C3%A9lula%20Micropave%20Multicolor%201,2Cm.jpg",
-            "cantidad": 1,
-            "id": 92
-          },
-          {
-            "nombre": "Dije Mini Cruz Multicolor 6Mm",
-            "precio": 1980,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Mini%20Cruz%20Multicolor%206Mm.jpg",
-            "cantidad": 1,
-            "id": 93
-          },
-          {
-            "nombre": "Dije Letra I 1,2Cm",
-            "precio": 1790,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Letra%20I%201,2Cm.jpg",
-            "cantidad": 1,
-            "id": 94
-          },
-          {
-            "nombre": "Dije Mini Circulo Micropave 6Mm",
-            "precio": 1580,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Mini%20Circulo%20Micropave%206Mm.jpg",
-            "cantidad": 1,
-            "id": 95
-          },
-          {
-            "nombre": "/Dije Gatito Micropave 12Mm.jpg",
-            "precio": 1650,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes//Dije%20Gatito%20Micropave%2012Mm.jpg",
-            "cantidad": 1,
-            "id":96
-          },
-          {
-            "nombre": "Dije Estrella 8Mm.jpg\"",
-            "precio": 1540,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Estrella%208Mm.jpg",
-            "cantidad": 1,
-            "id": 97
-          },
-          {
-            "nombre": "dijes/Dije Luna Micropave 10Mm",
-            "precio": 2010,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Luna%20Micropave%2010Mm.jpg",
-            "cantidad": 1,
-            "id": 98
-          },
-          {
-            "nombre": "Dije Corazón Cristal 5Mm",
-            "precio": 3110,
-            "imagen": "http://127.0.0.1:5502/imgs/dijes/Dije%20Coraz%C3%B3n%20Cristal%205Mm.jpg",
-            "cantidad": 1,
-            "id": 99
-          },
-
-          {
-            "nombre": "Pulsera Arbol Multicolor 12 A 15Cm",
-            "precio": 1240,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Arbol%20Multicolor%2012%20A%2015Cm.jpg",
-            "cantidad": 1,
-            "id": 100
-          },
-          {
-            "nombre": "Pulsera Caracol 19,5Cm",
-            "precio": 1230,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Caracol%2019,5Cm.jpg",
-            "cantidad": 1,
-            "id": 101
-          },
-          {
-            "nombre": "Pulsera Cheval 19,5Cm.jpg\"",
-            "precio": 1280,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Cheval%2019,5Cm.jpg",
-            "cantidad": 1,
-            "id": 102
-          },
-          {
-            "nombre": "Pulsera Combinada Mini Cubic 18Cm",
-            "precio": 1340,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Combinada%20Mini%20Cubic%2018Cm.jpg",
-            "cantidad": 1,
-            "id": 103
-          },
-          {
-            "nombre": "Pulsera Combinada Piedra Blanca Y Negra 18Cm",
-            "precio": 1290,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Combinada%20Piedra%20Blanca%20Y%20Negra%2018Cm.jpg",
-            "cantidad": 1,
-            "id": 104
-          },
-          {
-            "nombre": "Pulsera Combinada Piedra Blanca Y Negra 18Cm",
-            "precio": 1340,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Combinada%20Piedra%20Blanca%20Y%20Negra%2018Cm.jpg",
-            "cantidad": 1,
-            "id": 105
-          },
-          {
-            "nombre": "Pulsera Combinada Y Corazón Cubic Rosa 19,5Cm",
-            "precio": 1280,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Combinada%20Y%20Coraz%C3%B3n%20Cubic%20Rosa%2019,5Cm.jpg",
-            "cantidad": 1,
-            "id": 106
-          },
-          {
-            "nombre": "Pulsera Doble Combinada y Corazón 17 A 20Cm",
-            "precio": 1340,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Doble%20Combinada%20y%20Coraz%C3%B3n%2017%20A%2020Cm.jpg",
-            "cantidad": 1,
-            "id": 107
-          },
-          {
-            "nombre": "Pulsera Arbol Multicolor 12 A 15Cm",
-            "precio": 1240,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Arbol%20Multicolor%2012%20A%2015Cm.jpg",
-            "cantidad": 1,
-            "id": 108
-          },
-          {
-            "nombre": "Pulsera Combinada Corazon Multicolor",
-            "precio": 1250,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Combinada%20Corazon%20Multicolor%2017%20A%2020Cm.jpg",
-            "cantidad": 1,
-            "id": 109
-          },
-          {
-            "nombre": "Pulsera Combinada Mini Cubic 18Cm.",
-            "precio": 1450,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Combinada%20Mini%20Cubic%2018Cm.jpg",
-            "cantidad": 1,
-            "id": 110
-          },
-          {
-            "nombre": "Pulsera Cubic Multicolor 18 A 23,5Cm.jpg\"",
-            "precio": 1560,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Cubic%20Multicolor%2018%20A%2023,5Cm.jpg",
-            "cantidad": 1,
-            "id": 111
-          },
-          {
-            "nombre": "Pulsera Doble Combinada y Corazón 17 A 20Cm",
-            "precio": 1680,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Doble%20Combinada%20y%20Coraz%C3%B3n%2017%20A%2020Cm.jpg",
-            "cantidad": 1,
-            "id": 112
-          },
-          {
-            "nombre": "Pulsera Corazones 18Cm",
-            "precio": 1780,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Corazones%2018Cm.jpg",
-            "cantidad": 1,
-            "id": 113
-          },
-          {
-            "nombre": "Pulsera Corazones 18Cm",
-            "precio": 1340,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Corazones%2018Cm.jpg",
-            "cantidad": 1,
-            "id": 114
-          },
-          {
-            "nombre": "Pulsera Corazón Ojo Turco - 20cm.jpg\" ",
-            "precio": 2300,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Coraz%C3%B3n%20Ojo%20Turco%20-%2020cm.jpg",
-            "cantidad": 1,
-            "id": 115
-          },
-          {
-            "nombre": "Pulsera Corazón Micropavé - 18 a 20cm",
-            "precio": 2200,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Coraz%C3%B3n%20Micropav%C3%A9%20-%2018%20a%2020cm.jpg",
-            "cantidad": 1,
-            "id": 116
-          },
-          {
-            "nombre": "Pulsera Destello 18 a 22cm",
-            "precio": 2360,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Destello%2018%20a%2022cm.jpg",
-            "cantidad": 1,
-            "id": 117
-          },
-          {
-            "nombre": "Pulsera Ojo Protector Celeste 20Cm",
-            "precio": 2354,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Ojo%20Protector%20Celeste%2020Cm.jpg",
-            "cantidad": 1,
-            "id": 118
-          },
-          {
-            "nombre": "Pulsera Ojo Protector Y Corazones Combinados 19Cm\"",
-            "precio": 1560,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Ojo%20Protector%20Y%20Corazones%20Combinados%2019Cm.jpg",
-            "cantidad": 1,
-            "id": 119
-          },
-          {
-            "nombre": "Pulsera Ojo Protector Y Corazones Combinados 19Cm\"",
-            "precio": 1560,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Ojo%20Protector%20Y%20Corazones%20Combinados%2019Cm.jpg",
-            "cantidad": 1,
-            "id": 120
-          },
-          {
-            "nombre": "Pulsera Sol Cubic 18 a 22cm",
-            "precio": 1342,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Sol%20Cubic%2018%20a%2022cm.jpg",
-            "cantidad": 1,
-            "id": 121
-          },
-          {
-            "nombre": "Pulsera Tiffany 1,8mm - 19cm.jpg",
-            "precio": 2340,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Tiffany%201,8mm%20-%2019cm.jpg",
-            "cantidad": 1,
-            "id": 122
-          },
-          {
-            "nombre": "Pulsera Tourbillon 1mm-18cm",
-            "precio": 1560,
-            "imagen": "http://127.0.0.1:5502/imgs/pulseras/Pulsera%20Tourbillon%201mm-18cm.jpg",
-            "cantidad": 1,
-            "id": 123
-        }
-  ]
+  {
+    "id": 1,
+    "nombre": "Anillo Circulo Micropave",
+    "precio": 1240,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Circulo%20Micropave.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 2,
+    "nombre": "Anillo Circulos Fucsia",
+    "precio": 1340,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Circulos%20Fucsia.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 3,
+    "nombre": "Anillo Circulos Rosa",
+    "precio": 1250,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Circulos%20Rosa.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 4,
+    "nombre": "Anillo Circulos Verde",
+    "precio": 1490,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Circulos%20Verde.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 5,
+    "nombre": "Anillo Corazón Calado",
+    "precio": 1600,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Coraz%C3%B3n%20Calado.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Anillo Corazón Micropave",
+    "precio": 1800,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Coraz%C3%B3n%20Micropave.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 7,
+    "nombre": "Anillo Cubic Centro",
+    "precio": 1670,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Cubic%20Centro.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 8,
+    "nombre": "Anillo Cubic Centro.jpg\"",
+    "precio": 1690,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Cubic%20Centro.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 9,
+    "nombre": "Anillo Cubic Oval Verde",
+    "precio": 1780,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Cubic%20Oval%20Verde.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 10,
+    "nombre": "Anillo Doble Cubic Cristal",
+    "precio": 1760,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Doble%20Cubic%20Cristal.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 11,
+    "nombre": "Anillo Dos Corazones",
+    "precio": 2000,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Dos%20Corazones.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 12,
+    "nombre": "Anillo Falange Infinito Micropave",
+    "precio": 2340,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Falange%20Infinito%20Micropave.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 13,
+    "nombre": "Anillo Flor Cubic.jpg",
+    "precio": 1380,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Flor%20Cubic.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 14,
+    "nombre": "Anillo Gatito",
+    "precio": 2200,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Gatito.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 15,
+    "nombre": "Anillo Hoja Micropave Blanco",
+    "precio": 2600,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Hoja%20Micropave%20Blanco.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 16,
+    "nombre": "Anillo Circulo Micropave",
+    "precio": 3200,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Infinito%20Micropave.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 17,
+    "nombre": "Anillo Luna Micropave",
+    "precio": 2340,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Luna%20Micropave.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 18,
+    "nombre": "Anillo Mariposa",
+    "precio": 2600,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Mariposa.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 19,
+    "nombre": "Anillo Micropave Combinado",
+    "precio": 2700,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Micropave%20Combinado.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 20,
+    "nombre": "Anillo Micropave Multicolor",
+    "precio": 2900,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Micropave%20Multicolor.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 21,
+    "nombre": "Anillo Micropave Verde",
+    "precio": 3000,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Micropave%20Verde.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 22,
+    "nombre": "Anillo Mini Circulos Cristal Multicolor",
+    "precio": 4300,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Mini%20Circulos%20Cristal%20Multicolor.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 23,
+    "nombre": "Anillo Mini Cubic",
+    "precio": 2200,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Mini%20Cubic.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 24,
+    "nombre": "Anillo Ojo Cristal",
+    "precio": 2500,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Ojo%20Cristal.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 25,
+    "nombre": "Anillo Ondeado Dos Cubic",
+    "precio": 2780,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Ondeado%20Dos%20Cubic.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 26,
+    "nombre": "Anillo Ondeado Dos Cubic",
+    "precio": 3200,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Ondeado%20Dos%20Cubic.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 27,
+    "nombre": "Anillo Picos Cubic",
+    "precio": 3230,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Picos%20Cubic.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 28,
+    "nombre": "Anillo Flor Cubic Cristal",
+    "precio": 3540,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Flor%20Cubic%20Cristal.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 29,
+    "nombre": "Anillo Dona.jpg\"",
+    "precio": 3200,
+    "imagen": "http://127.0.0.1:5500/imgs/anillos/Anillo%20Dona.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 30,
+    "nombre": "Aros combinados micropave 1,2cm",
+    "precio": 1200,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Combinados%20Cubano%20It%20Micropave%20Negro%203Mm%201,2Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 31,
+    "nombre": "Aros corazon de meloconton 10Mm",
+    "precio": 1600,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Coraz%C3%B3n%2010Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 32,
+    "nombre": "Aros corazon Mircropave 1,3cm",
+    "precio": 1700,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Coraz%C3%B3n%20Micropave%201,3Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 33,
+    "nombre": "Aros Cubano It Cubic Multicolor 3Mm 1Cm.",
+    "precio": 1300,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Cubano%20It%20Cubic%20Multicolor%203Mm%201Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 34,
+    "nombre": "Aros Cubano It Micropave Blanco 3Mm 1,2Cm.",
+    "precio": 300,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Cubano%20It%20Micropave%20Blanco%203Mm%201,2Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 35,
+    "nombre": "Aros Cubano It Micropave Blanco 3Mm 1Cm.",
+    "precio": 400,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Cubano%20It%20Micropave%20Blanco%203Mm%201Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 36,
+    "nombre": "Aros Cubano It Micropave Combinado 2Mm 1,3Cm",
+    "precio": 600,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Cubano%20It%20Micropave%20Combinado%202Mm%201,3Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 37,
+    "nombre": "Aros Cubano It Micropave Combinado 2Mm 1Cm",
+    "precio": 4500,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Cubano%20It%20Micropave%20Combinado%202Mm%201Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 38,
+    "nombre": "Aros Cubano It Micropave Multicolor 1,3Cm.",
+    "precio": 300,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Cubano%20It%20Micropave%20Multicolor%201,3Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 39,
+    "nombre": "Aros Cubano It Micropave Multicolor 2Mm 1Cm.",
+    "precio": 150,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Cubano%20It%20Micropave%20Multicolor%202Mm%201Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 40,
+    "nombre": "Aros Dos Corazones Cubic Rosa 9Mm.jpg.",
+    "precio": 190,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Dos%20Corazones%20Cubic%20Rosa%209Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 41,
+    "nombre": "Aros Estrella Micropave Blanco 6Mm..",
+    "precio": 1890,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Estrella%20Micropave%20Blanco%206Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 42,
+    "nombre": "Aros Flor Calada Combinada Cubic 8Mm.",
+    "precio": 1450,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Flor%20Calada%20Combinada%20Cubic%208Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 43,
+    "nombre": "Aros Gota Combinado Micropave 10Mm",
+    "precio": 1500,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Gota%20Combinado%20Micropave%2010Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 44,
+    "nombre": "Aros Infinitos Micropave 2,4Cm.",
+    "precio": 1500,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Infinitos%20Micropave%202,4Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 45,
+    "nombre": "Aros Micropave Negro 1Cm.",
+    "precio": 1250,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Micropave%20Negro%201Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 46,
+    "nombre": "Aros Mini Triángulos Multicolor 4Mm.",
+    "precio": 1450,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Mini%20Tri%C3%A1ngulos%20Multicolor%204Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 47,
+    "nombre": "Aros Pluma Cubic Combinado 1Cm.",
+    "precio": 1258,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Pluma%20Cubic%20Combinado%201Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 48,
+    "nombre": "Aros Rectangular Micropave 7Mm.",
+    "precio": 1450,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Rectangular%20Micropave%207Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 49,
+    "nombre": "Aros Rombo Micropave y Cadena 5Mm.",
+    "precio": 1150,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Rombo%20Micropave%20y%20Cadena%205Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 50,
+    "nombre": "Aros Semi Argollita Multicolor 10Mm.",
+    "precio": 1250,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Semi%20Argollita%20Multicolor%2010Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 51,
+    "nombre": "Aros Sol Cubic 1,2Cm.",
+    "precio": 1750,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Sol%20Cubic%201,2Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 52,
+    "nombre": "Aros Susano Cubic Cristal 1,1Cm.",
+    "precio": 1250,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Susano%20Cubic%20Cristal%201,1Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 53,
+    "nombre": "Aros Susanos Mini Multicolor 7Mm..",
+    "precio": 1253,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Susanos%20Mini%20Multicolor%207Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 54,
+    "nombre": "Aros Susanos Mini Multicolor 7Mm.",
+    "precio": 1950,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Susanos%20Mini%20Multicolor%207Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 55,
+    "nombre": "Aros Cubic Cristal Multicolor 9mm.",
+    "precio": 1780,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Cubic%20Cristal%20Multicolor%209mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 56,
+    "nombre": "Aros Corazones con Cierre Brisura 10mm.jpg",
+    "precio": 1934,
+    "imagen": "http://127.0.0.1:5500/imgs/aros/Aros%20Corazones%20con%20Cierre%20Brisura%2010mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 57,
+    "nombre": "Cadena Bolitas 1Mm 45cM",
+    "precio": 1240,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Bolitas%201Mm%2045cM.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 58,
+    "nombre": "Cadena Bolitas 2mm-45cm.",
+    "precio": 1100,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Bolitas%202mm-45cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 59,
+    "nombre": "Cadena Cheval Combinada 40Cm",
+    "precio": 1210,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Cheval%20Combinada%2040Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 60,
+    "nombre": "Cadena Cheval Combinada 45Cm",
+    "precio": 1500,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Cheval%20Combinada%2045Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 61,
+    "nombre": "CCadena Singapur 1,8mm - 40cm",
+    "precio": 1420,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Singapur%201,8mm%20-%2040cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 62,
+    "nombre": "Cadena Singapur 1,8mm - 45cm.jpg\"",
+    "precio": 1470,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Singapur%201,8mm%20-%2045cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 63,
+    "nombre": "Cadena Singapur 1,8mm - 45cm",
+    "precio": 1560,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Singapur%201,8mm%20-%2045cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 64,
+    "nombre": "Cadena Singapur 1,8mm - 50cm",
+    "precio": 1430,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Singapur%201,8mm%20-%2050cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 65,
+    "nombre": "Cadena Singapur 2Mm 40Cm",
+    "precio": 1450,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Singapur%202Mm%2040Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 66,
+    "nombre": "Cadena Tiffany 1,8mm - 40cm",
+    "precio": 1760,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Tiffany%201,8mm%20-%2040cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 67,
+    "nombre": "CCadena Tiffany 1,8mm - 45cm",
+    "precio": 2240,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Tiffany%201,8mm%20-%2045cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 68,
+    "nombre": "Cadena Veneciana 1mm - 40cm.\"",
+    "precio": 1870,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Cadena%20Veneciana%201mm%20-%2040cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 69,
+    "nombre": "Conjunto Choker Multi Dijes Combinados 40cm",
+    "precio": 1860,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Conjunto%20Choker%20Multi%20Dijes%20Combinados%2040cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 70,
+    "nombre": "Conjunto Corazón Calado Micropave 40 A 45Cm",
+    "precio": 1990,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Conjunto%20Coraz%C3%B3n%20Calado%20Micropave%2040%20A%2045Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 71,
+    "nombre": "Conjunto Mini Cubic Cristal 45Cm",
+    "precio": 1880,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Conjunto%20Mini%20Cubic%20Cristal%2045Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 72,
+    "nombre": "Conjunto Rayo Micropave 40 A 45Cm",
+    "precio": 2000,
+    "imagen": "http://127.0.0.1:5500/imgs/cadenas/Conjunto%20Rayo%20Micropave%2040%20A%2045Cm.jpg",
+    "cantidad": 1
+  },{
+    "id": 73,
+    "nombre": "Ala Calada Micropave 2,2Cm",
+    "precio": 1200,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Ala%20Calada%20Micropave%202,2Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 74,
+    "nombre": "/Dije Perro Micropave 1,5",
+    "precio": 1230,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes//Dije%20Perro%20Micropave%201,5Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 75,
+    "nombre": "Dije Estrella Micropave 7Mm",
+    "precio": 1220,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Estrella%20Micropave%207Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 76,
+    "nombre": "Dije Trébol 4 Hojas 1,8Cm",
+    "precio": 1230,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Tr%C3%A9bol%204%20Hojas%201,8Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 77,
+    "nombre": "Dije Corazon Contorno Multicolor 11Mm",
+    "precio": 1250,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Corazon%20Contorno%20Multicolor%2011Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 78,
+    "nombre": "Dije Gatito 2Cm",
+    "precio": 1290,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Gatito%202Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 79,
+    "nombre": "Dije Cruz Con Infinito Micropave 2Cm.jpg",
+    "precio": 1280,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Cruz%20Con%20Infinito%20Micropave%202Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 80,
+    "nombre": "Dije Corazon Contorno Multicolor 11Mm",
+    "precio": 1310,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Corazon%20Contorno%20Multicolor%2011Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 81,
+    "nombre": "Dije Ala Calada Micropave 2,2Cm.jpg",
+    "precio": 1320,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Ala%20Calada%20Micropave%202,2Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 82,
+    "nombre": "Dije Caballito de Mar 2,2Cm",
+    "precio": 1330,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Caballito%20de%20Mar%202,2Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 83,
+    "nombre": "Dije Cubic Engarzado Violeta 6Mm",
+    "precio": 1340,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Cubic%20Engarzado%20Violeta%206Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 84,
+    "nombre": "dije Susano Mini Negro 3Mm",
+    "precio": 1345,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/dije%20Susano%20Mini%20Negro%203Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 85,
+    "nombre": "Dije Cubic Engarzado Verde 6Mm",
+    "precio": 1400,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Cubic%20Engarzado%20Verde%206Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 86,
+    "nombre": "ADije Cubic Engarzado Azul 6Mm",
+    "precio": 1430,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Cubic%20Engarzado%20Azul%206Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 87,
+    "nombre": "Dije Corazón 8Mm.jpg\"",
+    "precio": 1450,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Coraz%C3%B3n%208Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 88,
+    "nombre": "dije Susano Mini Negro 3Mm",
+    "precio": 1240,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/dije%20Susano%20Mini%20Negro%203Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 89,
+    "nombre": "Dije Mariposa Micropave Blanco 1,3Cm",
+    "precio": 1110,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Mariposa%20Micropave%20Blanco%201,3Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 90,
+    "nombre": "Dije Susano Mini Rosa 3Mm",
+    "precio": 950,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Susano%20Mini%20Rosa%203Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 91,
+    "nombre": "Dije Estrella 8Mm.jp",
+    "precio": 1650,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Estrella%20Micropave%208Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 92,
+    "nombre": "Dije Libélula Micropave Multicolor 1,2Cm",
+    "precio": 1640,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Lib%C3%A9lula%20Micropave%20Multicolor%201,2Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 93,
+    "nombre": "Dije Mini Cruz Multicolor 6Mm",
+    "precio": 1980,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Mini%20Cruz%20Multicolor%206Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 94,
+    "nombre": "Dije Letra I 1,2Cm",
+    "precio": 1790,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Letra%20I%201,2Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 95,
+    "nombre": "Dije Mini Circulo Micropave 6Mm",
+    "precio": 1580,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Mini%20Circulo%20Micropave%206Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 96,
+    "nombre": "/Dije Gatito Micropave 12Mm.jpg",
+    "precio": 1650,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes//Dije%20Gatito%20Micropave%2012Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 97,
+    "nombre": "Dije Estrella 8Mm.jpg\"",
+    "precio": 1540,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Estrella%208Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 98,
+    "nombre": "dijes/Dije Luna Micropave 10Mm",
+    "precio": 2010,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Luna%20Micropave%2010Mm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 99,
+    "nombre": "Dije Corazón Cristal 5Mm",
+    "precio": 3110,
+    "imagen": "http://127.0.0.1:5500/imgs/dijes/Dije%20Coraz%C3%B3n%20Cristal%205Mm.jpg",
+    "cantidad": 1
+  },{
+    "id": 100,
+    "nombre": "Pulsera Arbol Multicolor 12-15Cm",
+    "precio": 1240,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Arbol%20Multicolor%2012%20A%2015Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 101,
+    "nombre": "Pulsera Caracol 19,5Cm",
+    "precio": 1230,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Caracol%2019,5Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 102,
+    "nombre": "Pulsera Cheval 19,5Cm.jpg\"",
+    "precio": 1280,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Cheval%2019,5Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 103,
+    "nombre": "Pulsera Combinada Mini Cubic 18Cm",
+    "precio": 1340,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Combinada%20Mini%20Cubic%2018Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 104,
+    "nombre": "Pulsera Combinada Piedra Blanca Y Negra 18Cm",
+    "precio": 1290,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Combinada%20Piedra%20Blanca%20Y%20Negra%2018Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 105,
+    "nombre": "Pulsera Combinada Piedra Blanca Y Negra 18Cm",
+    "precio": 1340,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Combinada%20Piedra%20Blanca%20Y%20Negra%2018Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 106,
+    "nombre": "Pulsera Combinada Y Corazón Cubic Rosa 19,5Cm",
+    "precio": 1280,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Combinada%20Y%20Coraz%C3%B3n%20Cubic%20Rosa%2019,5Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 107,
+    "nombre": "Pulsera Doble Combinada y Corazón 17 A 20Cm",
+    "precio": 1340,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Doble%20Combinada%20y%20Coraz%C3%B3n%2017%20A%2020Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 108,
+    "nombre": "Pulsera Arbol Multicolor 12 A 15Cm",
+    "precio": 1240,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Arbol%20Multicolor%2012%20A%2015Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 109,
+    "nombre": "Pulsera Combinada Corazon Multicolor",
+    "precio": 1250,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Combinada%20Corazon%20Multicolor%2017%20A%2020Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 110,
+    "nombre": "Pulsera Combinada Mini Cubic 18Cm.",
+    "precio": 1450,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Combinada%20Mini%20Cubic%2018Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 111,
+    "nombre": "Pulsera Cubic Multicolor 18 A 23,5Cm.jpg\"",
+    "precio": 1560,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Cubic%20Multicolor%2018%20A%2023,5Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 112,
+    "nombre": "Pulsera Doble Combinada y Corazón 17 A 20Cm",
+    "precio": 1680,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Doble%20Combinada%20y%20Coraz%C3%B3n%2017%20A%2020Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 113,
+    "nombre": "Pulsera Corazones 18Cm",
+    "precio": 1780,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Corazones%2018Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 114,
+    "nombre": "Pulsera Corazones 18Cm",
+    "precio": 1340,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Corazones%2018Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 115,
+    "nombre": "Pulsera Corazón Ojo Turco - 20cm.jpg\" ",
+    "precio": 2300,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Coraz%C3%B3n%20Ojo%20Turco%20-%2020cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 116,
+    "nombre": "Pulsera Corazón Micropavé - 18 a 20cm",
+    "precio": 2200,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Coraz%C3%B3n%20Micropav%C3%A9%20-%2018%20a%2020cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 117,
+    "nombre": "Pulsera Destello 18 a 22cm",
+    "precio": 2360,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Destello%2018%20a%2022cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 118,
+    "nombre": "Pulsera Ojo Protector Celeste 20Cm",
+    "precio": 2354,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Ojo%20Protector%20Celeste%2020Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 119,
+    "nombre": "Pulsera Ojo Protector Y Corazones Combinados 19Cm\"",
+    "precio": 1560,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Ojo%20Protector%20Y%20Corazones%20Combinados%2019Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 120,
+    "nombre": "Pulsera Ojo Protector Y Corazones Combinados 19Cm\"",
+    "precio": 1560,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Ojo%20Protector%20Y%20Corazones%20Combinados%2019Cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 121,
+    "nombre": "Pulsera Sol Cubic 18 a 22cm",
+    "precio": 1342,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Sol%20Cubic%2018%20a%2022cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 122,
+    "nombre": "Pulsera Tiffany 1,8mm - 19cm.jpg",
+    "precio": 2340,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Tiffany%201,8mm%20-%2019cm.jpg",
+    "cantidad": 1
+  },
+  {
+    "id": 123,
+    "nombre": "Pulsera Tourbillon 1mm-18cm",
+    "precio": 1560,
+    "imagen": "http://127.0.0.1:5500/imgs/pulseras/Pulsera%20Tourbillon%201mm-18cm.jpg",
+    "cantidad": 1
+  }
+]

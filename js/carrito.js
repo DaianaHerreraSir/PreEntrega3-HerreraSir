@@ -27,6 +27,7 @@ if (carrito.length === 0) {
         carritoVacio.innerHTML = `<h2>Carrito vacío</h2>`;
         ventanaContenedor.append(carritoVacio);
     } else {
+        
 //EL CONTENIDO DEL CARRITO
 carrito.forEach(producto => {
     const contenidoDelCarrito = document.createElement("div");
