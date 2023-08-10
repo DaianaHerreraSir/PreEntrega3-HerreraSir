@@ -26,7 +26,7 @@ GuardadoEnlocal();
 
 const getProductos =async () => {
 try{
-    const respuesta= await fetch ("//https://daianaherrerasir.github.io/ProyectoFinal-HerreraSir/data/productos.json");
+    const respuesta= await fetch ("https://daianaherrerasir.github.io/ProyectoFinal-HerreraSir/data/productos.json");
     const data = await respuesta.json();
     const items = document.getElementsByClassName("item");
     
