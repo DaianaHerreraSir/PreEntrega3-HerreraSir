@@ -26,7 +26,7 @@ GuardadoEnlocal();
 
 const getProductos =async () => {
 try{
-    const respuesta= await fetch ("/data/productos.json");
+    const respuesta= await fetch ("../data/productos.json");
     const data = await respuesta.json();
     const items = document.getElementsByClassName("item");
     
